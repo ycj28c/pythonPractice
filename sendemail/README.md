@@ -16,7 +16,7 @@ There is a working example in /src/simpleEmail.py
 Change the
 gmail_sender = 'youremail'
 gmail_passwd = 'youremailpassword'
-To your email and password, then run “test email.bat”, it will send a test email to you
+To your email and password, then run "test email.bat", it will send a test email to you
 
 5.	For more example, can check
 https://docs.python.org/3.6/library/email-examples.html
